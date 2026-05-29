@@ -1,2 +1,3 @@
 # PROJECT-01
-POWER,SQL,EXCEL.
+## 1. Project Title / Headline.
+Retail Intelligence Suite.
