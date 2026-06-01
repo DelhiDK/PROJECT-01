@@ -49,3 +49,5 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 • REST APIs → Real‑time integration with external systems (ERP, POS, CRM).
 
 • R / Python Scripts → Forecasting, trend analysis, and machine learning models.
+
+https://github.com/DelhiDK/PROJECT-01/blob/main/Project%2001_%20Data%20Source.xlsx
