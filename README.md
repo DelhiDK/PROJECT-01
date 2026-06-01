@@ -9,7 +9,7 @@ Retail Intelligence Suite is a comprehensive analytics solution designed to tran
 ##### • 📦 Inventory Analysis: Monitor stock levels over time, visualize store‑level distribution, and detect low‑stock products before they impact operations.
 ##### • 🏬 Store Performance: Compare sales averages, profitability, and contributions across multiple stores to benchmark and optimize performance.
 By combining these perspectives, Retail Intelligence Suite empowers retailers, analysts, and managers to make data‑driven decisions with confidence. Whether you’re scaling a business, managing supply chains, or exploring analytics, this project offers a practical framework for turning data into strategy.
-### 3. Short Description / Purpose.
+### 3. 🏷️ Short Description / Purpose.
 #### 📊 Sales Overview Dashboard.
 • Description: Summarizes total sales, product performance, regional distribution, and monthly sales trends.
 
