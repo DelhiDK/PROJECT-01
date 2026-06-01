@@ -50,4 +50,6 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 
 • **R / Python Scripts →** Forecasting, trend analysis, and machine learning models.
 ### 5. 🏷️ Data Source.
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 
