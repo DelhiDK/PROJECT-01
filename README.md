@@ -51,6 +51,6 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 • R / Python Scripts → Forecasting, trend analysis, and machine learning models.
 ### 5. 🏷️ Data Source.
 https://github.com/DelhiDK/PROJECT-01/blob/main/Project%2001_%20Data%20Source.xlsx
-https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png
+__https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png__
 
 
