@@ -12,6 +12,7 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 ### 3. Short Description / Purpose.
 #### 📊 Sales Overview Dashboard.
 • Description: Summarizes total sales, product performance, regional distribution, and monthly sales trends.
+
 • Purpose: Helps identify top‑selling products, track regional contributions, and monitor growth patterns over time for better sales strategy.
 #### 📦 Inventory Analysis Dashboard.
 • Description: Displays inventory trends, store‑level stock distribution, and highlights low‑stock products.
