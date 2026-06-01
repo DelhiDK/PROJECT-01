@@ -51,8 +51,7 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 • **R / Python Scripts →** Forecasting, trend analysis, and machine learning models.
 ### 5. 🏷️ Data Source.
 Show what the dashboard looks like.
-Example: 
-                                                                             SALES OVERVEW 
-![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
-INVENTORY ANALYSIS: ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
+Example: SALES OVERVEW ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
+INVENTORY ANALYSIS ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
+STORE PERFORMANACE ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
 
