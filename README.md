@@ -53,5 +53,5 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+INVENTORY ANALYSIS: ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
 
