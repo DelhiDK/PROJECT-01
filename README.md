@@ -50,7 +50,7 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 
 • **R / Python Scripts →** Forecasting, trend analysis, and machine learning models.
 ### 5. 🏷️ Data Source.
-This project is built on four key datasets: Sales, Inventory, Products, and Stores.
+This project is built on four key datasets: **Sales, Inventory, Products, and Stores**.
 
 • Sales captures transaction details such as date, store, product, quantity, and revenue.
 
@@ -61,7 +61,7 @@ This project is built on four key datasets: Sales, Inventory, Products, and Stor
 • Stores defines store locations and regions, enabling role‑based access (RLS).
 
 Together, these sources form the backbone of the dashboards, ensuring accurate insights into sales trends, inventory health, and store performance.
-Tap this link to open the resource :
+**Tap this link to open the resource :**
 ### 6. 🚀 Futures and Highlights.
 • **Interactive Dashboards**: Three powerful dashboards — Sales Overview, Inventory Analysis, and Store Performance — designed for quick insights.
 
