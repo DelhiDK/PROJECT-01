@@ -61,7 +61,8 @@ This project is built on four key datasets: **Sales, Inventory, Products, and St
 • Stores defines store locations and regions, enabling role‑based access (RLS).
 
 Together, these sources form the backbone of the dashboards, ensuring accurate insights into sales trends, inventory health, and store performance.
-**Tap this link to open the resource :**
+
+**Tap this link to open the resource :** https://github.com/DelhiDK/PROJECT-01/blob/main/Project%2001_%20Data%20Source.xlsx
 ### 6. 🚀 Futures and Highlights.
 • **Interactive Dashboards**: Three powerful dashboards — Sales Overview, Inventory Analysis, and Store Performance — designed for quick insights.
 
