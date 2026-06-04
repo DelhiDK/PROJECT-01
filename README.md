@@ -66,7 +66,7 @@ This project is built on four key datasets: **Sales, Inventory, Products, and St
 
 Together, these sources form the backbone of the dashboards, ensuring accurate insights into sales trends, inventory health, and store performance.
 
-**Tap this link to open the Data source :** https://github.com/DelhiDK/PROJECT-01/blob/main/Project%2001_%20Data%20Source.xlsx
+**🔗Tap this link to open the Data source :** https://github.com/DelhiDK/PROJECT-01/blob/main/Project%2001_%20Data%20Source.xlsx
 ### 6. 🚀 Futures and Highlights.
 • **Interactive Dashboards**: Three powerful dashboards — Sales Overview, Inventory Analysis, and Store Performance — designed for quick insights.
 
