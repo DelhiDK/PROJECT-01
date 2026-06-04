@@ -75,7 +75,9 @@ Together, these sources form the backbone of the dashboards, ensuring accurate i
 • **Business Impact**: Enables managers to track KPIs, identify low‑stock items, and compare store performance for smarter strategies.
 ### 7. 🖼️ Screenshots / Demos.
 Show what the dashboard looks like.
-Example: 🏷️SALES OVERVEW ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
+Example: 
+
+🏷️SALES OVERVEW ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
 📦INVENTORY ANALYSIS ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
 🏬STORE PERFORMANACE ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/STORE%20PERFORMANACE.png)
 
