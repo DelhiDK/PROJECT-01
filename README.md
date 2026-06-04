@@ -76,6 +76,8 @@ Together, these sources form the backbone of the dashboards, ensuring accurate i
 ### 7. 🖼️ Screenshots / Demos.
 Show what the dashboard looks like.
 Example: 🏷️SALES OVERVEW ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
-📦INVENTORY ANALYSIS ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
+<div align="center">
+  <h1>📦INVENTORY ANALYSIS </h1>
+</div> ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
 🏬STORE PERFORMANACE ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/STORE%20PERFORMANACE.png)
 
