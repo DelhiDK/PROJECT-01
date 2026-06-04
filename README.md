@@ -50,7 +50,27 @@ By combining these perspectives, Retail Intelligence Suite empowers retailers, a
 
 • **R / Python Scripts →** Forecasting, trend analysis, and machine learning models.
 ### 5. 🏷️ Data Source.
-### 0. Screenshots / Demos.
+This project is built on four key datasets: Sales, Inventory, Products, and Stores.
+• Sales captures transaction details such as date, store, product, quantity, and revenue.
+
+• Inventory tracks stock levels and highlights low‑stock items.
+
+• Products provides product attributes like name, category, and unit price.
+
+• Stores defines store locations and regions, enabling role‑based access (RLS).
+Together, these sources form the backbone of the dashboards, ensuring accurate insights into sales trends, inventory health, and store performance.
+Tap this link to open the resource :
+### 6. 🚀 Futures and Highlights.
+• **Interactive Dashboards**: Three powerful dashboards — Sales Overview, Inventory Analysis, and Store Performance — designed for quick insights.
+
+• **Data‑Driven Decisions**: Visualizations that highlight top products, regional sales trends, inventory health, and store profitability.
+
+• **Scalable Data Source**: Built on structured datasets (Sales, Inventory, Products, Stores) with clear relationships for easy expansion.
+
+• **Role‑Based Access (RLS)**: Secure data handling with store‑level access control.
+
+• **Business Impact**: Enables managers to track KPIs, identify low‑stock items, and compare store performance for smarter strategies.
+### 7. Screenshots / Demos.
 Show what the dashboard looks like.
 Example: SALES OVERVEW ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/SALES%20OVERVEW.png)
 INVENTORY ANALYSIS ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-01/blob/main/INVENTORY%20ANALYSIS.png)
